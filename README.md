@@ -2,7 +2,7 @@
 A simple quiz app in React.js
 
 ## Preview
-![QuizApp](images/Screenshot from 2020-05-03 18-49-08.png)
+![QuizApp](images/quiz.png)
 
 ## Installation
 To install and run the quiz app run the following commands on terminal
